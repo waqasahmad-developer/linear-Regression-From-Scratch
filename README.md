@@ -2,7 +2,7 @@
 This repository contains two implementations of Simple Linear Regression:
 
 Using Scikit-Learn – A straightforward implementation leveraging the LinearRegression class from sklearn.  
-From Scratch – A custom-built implementation of linear regression using NumPy, demonstrating how the model works under the hood.  
+From Scratch – A custom-built implementation of linear regression, demonstrating how the model works under the hood.  
 **Contents:**  
 
 linear_regression_sklearn.ipynb → Implements simple linear regression using sklearn.  
